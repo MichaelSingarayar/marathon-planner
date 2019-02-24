@@ -1,5 +1,7 @@
 # Reel Planner
 
+https://peaceful-falls-98746.herokuapp.com/ 
+
 ## Description
 * This app utilizes the power of The Movie Database (TMDb) to find movie recommendations taylored to your preferences.
 * After you watch a movie you can save it in your personal movie history and mark whether or not you liked it.
