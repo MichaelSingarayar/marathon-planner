@@ -7,10 +7,10 @@
 https://peaceful-falls-98746.herokuapp.com/ 
 
 # Contributors 
-Robert Anderson
-Mike Corey
-Simon Hong
-Michael Singarayar
+* Robert Anderson
+* Mike Corey
+* Simon Hong
+* Michael Singarayar
 
 
 
